@@ -1,4 +1,4 @@
-# My Svelte Hello World :world:
+# My Svelte Hello World 🌏
 
 Write or delete review comments, written in
 [Svelte](https://github.com/sveltejs/svelte).

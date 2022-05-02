@@ -5,7 +5,7 @@ Write or delete review comments, written in
 
 ## Demo
 
-![demo](./media/demo.gif)
+![demo](./media/demo.png)
 
 ## Get started
 

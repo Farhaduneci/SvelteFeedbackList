@@ -4,9 +4,9 @@
 
   export let feedback = [];
   function handleDelete(id) {
-    Storage.update((currentFeedbacks) => {
-      return currentFeedbacks.filter((feedback) => feedback.id !== id);
-    });
+    Storage.update((feedbacks) =>
+      feedbacks.filter((feedback) => feedback.id !== id)
+    );
   }
 </script>
 

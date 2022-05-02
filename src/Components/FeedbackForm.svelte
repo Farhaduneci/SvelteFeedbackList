@@ -63,7 +63,7 @@
 
 <style>
   header {
-    max-width: 400px;
+    max-width: 600px;
     margin: auto;
   }
   header h2 {
